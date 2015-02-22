@@ -1,2 +1,4 @@
 # deeweny-android
 deeweny android
+
+<a href="http://deeweny.store.aptoide.com" style="border:none;text-decoration:none;display:inline;" target="_blank">	<div style="margin:10px;padding:5px 10px;border:#888 solid 1px;width:145px;	background:#FFF;text-align:center;-moz-border-radius:0px 15px;border-radius:0px 15px;">		<div style="color:#666;font-size:14px;font-family:Arial;border-bottom:#888 solid 1px;padding-bottom:5px;">			<b>deeweny</b><br />			<span style="font-size:10px">Aptoide Store QR Code</span>		</div>		<img style="border:none;margin:7px 0px;width:145px;height:145px;" src="http://deeweny.store.aptoide.com/images/qrcodes/f96daa951f1cf7d2cbed4be3a39bb9fe.png" alt="deeweny QR Code" />		<br />		<img src="http://cdn3.aptoide.com/includes/themes/default/images/bazaar_snippetbutton.png" width="145" style="margin:-3px -5px;padding:1px;"/>	</div></a>
